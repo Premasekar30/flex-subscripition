@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container__s1__titles{
+    
+    background-color: palevioletred;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+ 
+    margin-left: 300px;
+    padding-bottom: 20px;
+    margin-right: 300px;
+  
+}
+.container__box{
+    display: flex;
+    justify-content: space-around;
+}
+.container__s1{
+    color: white;
+    background-color: black;
+    border: solid pink 2px;
+    margin-top: 30px;
+    justify-content: space-between;
+    width: 20%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.container__s1__items{
+    border: solid white 2px;
+    margin-top: 5px;
+    border-radius: 20px;
+    padding: 15px;
+
+}
+.container__s1__title{
+    text-align: center;
+}
